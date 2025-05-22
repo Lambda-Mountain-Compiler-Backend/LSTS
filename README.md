@@ -11,7 +11,7 @@ Types describe properties of Terms.
 Statements describe relations between Terms and Types.
 
 ### [Tutorial](https://github.com/andrew-johnson-4/LSTS/wiki)
-### [Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
+### [Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 ### [Discord](https://discord.gg/sW2ksPY9jj)
 
 ### Performance
