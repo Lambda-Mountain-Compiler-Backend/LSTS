@@ -1,4 +1,4 @@
-<a href="https://andrew-johnson-4.github.io/lsts-tutorial/"><img src="https://repository-images.githubusercontent.com/404928261/4b75e965-a631-4489-a00a-d84b19a09eb9" alt="logo image" width=40%></a>
+<img src="https://repository-images.githubusercontent.com/404928261/4b75e965-a631-4489-a00a-d84b19a09eb9" alt="logo image" width=40%>
 
 LSTS is a programming language and proof assistant.
 The goal for this project is to integrate formal methods with natural programming habits.
@@ -10,7 +10,6 @@ Terms can be evaluated to obtain Values.
 Types describe properties of Terms.
 Statements describe relations between Terms and Types.
 
-### [Tutorial](https://github.com/andrew-johnson-4/LSTS/wiki)
 ### [Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 ### [Discord](https://discord.gg/sW2ksPY9jj)
 
